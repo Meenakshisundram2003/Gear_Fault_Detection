@@ -1,5 +1,5 @@
 # Gear Fault Detection
-Acquired sensor data in both working and malfunctioning settings leveraging LabView, guaranteeing thorough coverage of gearbox behavior. Extracted pertinent information from raw sensor data, using feature extraction techniques.	Implemented scikit-learn for model development and implemented machine learning algorithms detect gearbox faults, such as Support Vector Classifier (SVC) and Random Forest. Ensured strong fault detection capabilities by assessing models' performance using metrics such as accuracy, precision, and recall.
+Acquired sensor data in both working and malfunctioning settings leveraging LabView, guaranteeing thorough coverage of gearbox behavior. Extracted pertinent information from raw sensor data, using feature extraction techniques.	Implemented scikit-learn for model development and implemented machine learning algorithms to detect gearbox faults, such as Support Vector Classifier (SVC) and Random Forest. Ensured strong fault detection capabilities by assessing models' performance using metrics such as accuracy, precision, and recall.
 
 # Results
 Shape of Normal Data Array: (10, 51200, 2)
@@ -14,14 +14,14 @@ Shape of Faulty Features Array: (10, 24)
 
 ![WhatsApp Image 2025-01-01 at 14 02 02_7d90b447](https://github.com/user-attachments/assets/57c4f1ab-7ace-4fdb-80c8-fcbca7175f53)
 
-# Support Vector
+# Support Vector Classifier (SVC)
 Accuracy in %: 50.00 
 
 Recall score in %: 100.00 
 
 Precision score in %: 50.00
 
-# Random Forest
+# Random Forest Classifier (RFC)
 Accuracy in %: 50.00 
 
 Recall score in %: 100.00 
@@ -35,12 +35,12 @@ Precision score in %: 50.00
 
 Top 5 features -  Sum Freq, Var Freq, Max Freq, Kurtosis Freq, Peak Freq
 
-Accuracy - Random Forest Classifier  : 74.66
+Accuracy - RFC : 74.66 %
 
-Accuracy - Support Vector Machine    : 78.00
+Accuracy - SVC : 78.00 %
 
 # Dimension Reduction
 
-Accuracy - Random Forest Classifier  : 78.2
+Accuracy - RFC : 78.20 %
 
-Accuracy - Support Vector Machine    : 82.77
+Accuracy - SVC : 82.77 %
