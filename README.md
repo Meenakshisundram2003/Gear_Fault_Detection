@@ -3,6 +3,7 @@ Acquired sensor data in both working and malfunctioning settings leveraging LabV
 
 # Results
 Shape of Normal Data Array: (10, 51200, 2)
+
 Shape of Faulty Data Array: (10, 51200, 2)
 
 ![WhatsApp Image 2025-01-01 at 13 59 26_fba48d53](https://github.com/user-attachments/assets/962592cb-a4b4-45db-a5a8-9eb18fec4c8e)
