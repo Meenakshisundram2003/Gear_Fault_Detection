@@ -14,32 +14,31 @@ Shape of Faulty Features Array: (10, 24)
 
 ![WhatsApp Image 2025-01-01 at 14 02 02_7d90b447](https://github.com/user-attachments/assets/57c4f1ab-7ace-4fdb-80c8-fcbca7175f53)
 
-# Support Vector Classifier (SVC)
+## Support Vector Classifier (SVC)
 Accuracy in %: 50.00 
 
 Recall score in %: 100.00 
 
 Precision score in %: 50.00
 
-# Random Forest Classifier (RFC)
+## Random Forest Classifier (RFC)
 Accuracy in %: 50.00 
 
 Recall score in %: 100.00 
 
 Precision score in %: 50.00
 
-# Feature Selection using SVC
+## Feature Selection using SVC
 ![WhatsApp Image 2025-01-01 at 14 05 27_f643985a](https://github.com/user-attachments/assets/658ec375-8bdf-4078-82c6-600e6b40799e)
 
-# Top 5 Features 
-
-Top 5 features -  Sum Freq, Var Freq, Max Freq, Kurtosis Freq, Peak Freq
+## Top 5 Features 
+  Sum Freq, Var Freq, Max Freq, Kurtosis Freq, Peak Freq
 
 Accuracy - RFC : 74.66 %
 
 Accuracy - SVC : 78.00 %
 
-# Dimension Reduction
+## Dimension Reduction
 
 Accuracy - RFC : 78.20 %
 
