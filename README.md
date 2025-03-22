@@ -8,12 +8,13 @@ Acquired sensor data in both working and malfunctioning settings leveraging LabV
 ### Faulty Gear
 ![WhatsApp Image 2025-03-21 at 20 58 32_5842191b](https://github.com/user-attachments/assets/b46bf5d0-07b2-4210-8f72-2691635fe22c) <br/>
              
-## Results
+## Plots
 Shape of Normal Data Array: (10, 51200, 2) <br/>
 Shape of Faulty Data Array: (10, 51200, 2)<br/>
 
 ![WhatsApp Image 2025-01-01 at 13 59 26_fba48d53](https://github.com/user-attachments/assets/962592cb-a4b4-45db-a5a8-9eb18fec4c8e)
 
+## Results
 Shape of Normal Features Array: (10, 24)<br/>
 Shape of Faulty Features Array: (10, 24)<br/>
 
