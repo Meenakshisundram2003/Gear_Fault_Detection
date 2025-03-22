@@ -1,7 +1,15 @@
 # Gear Fault Detection
 Acquired sensor data in both working and malfunctioning settings leveraging LabView, guaranteeing thorough coverage of gearbox behavior. Extracted pertinent information from raw sensor data, using feature extraction techniques.	Implemented scikit-learn for model development and implemented machine learning algorithms to detect gearbox faults, such as Support Vector Classifier (SVC) and Random Forest. Ensured strong fault detection capabilities by assessing models' performance using metrics such as accuracy, precision, and recall.
 
-# Results
+## Figure
+![WhatsApp Image 2025-03-21 at 20 58 31_c472aabf](https://github.com/user-attachments/assets/e8097fdf-db07-4d28-bce6-cb8d1db99ba6)
+Figure 1 - Normal Gear
+![WhatsApp Image 2025-03-21 at 20 58 32_5842191b](https://github.com/user-attachments/assets/b46bf5d0-07b2-4210-8f72-2691635fe22c)
+Figure 2 - Faulty Gear
+![WhatsApp Image 2025-03-21 at 20 58 32_285a39a4](https://github.com/user-attachments/assets/6af9f748-55de-443d-8fb6-9ef5f7fdd59d)
+Figure 3 - Gear Box
+
+## Results
 Shape of Normal Data Array: (10, 51200, 2)
 
 Shape of Faulty Data Array: (10, 51200, 2)
