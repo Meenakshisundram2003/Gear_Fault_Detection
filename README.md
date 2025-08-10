@@ -32,7 +32,7 @@ Recall score in %: 100.00 <br/>
 Precision score in %: 50.00
 
 ## Feature Selection using SVC
-<img src="https://github.com/user-attachments/assets/658ec375-8bdf-4078-82c6-600e6b40799e" width="400" height="300">
+<img src="https://github.com/user-attachments/assets/658ec375-8bdf-4078-82c6-600e6b40799e" width="200" height="300">
 
 ## Top 5 Features 
 ### Sum Freq, Var Freq, Max Freq, Kurtosis Freq, Peak Freq
