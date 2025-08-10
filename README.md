@@ -11,8 +11,9 @@ Acquired sensor data in both working and malfunctioning settings leveraging LabV
 Shape of Normal Data Array: (10, 51200, 2) <br/>
 Shape of Faulty Data Array: (10, 51200, 2)<br/>
 
-<img src="https://github.com/user-attachments/assets/962592cb-a4b4-45db-a5a8-9eb18fec4c8e" width="600" height="600">
-
+| Normal Data | Faulty Data |
+|-------------|-------------|
+| <img src="https://github.com/user-attachments/assets/25502d6c-c23f-414a-a6cb-3918178464a5" width="400" height="400"> | <img src="https://github.com/user-attachments/assets/1c14cb46-a72d-485d-b301-63bd082cc519" width="400" height="400"> |
 
 ## Results
 Shape of Normal Features Array: (10, 24)<br/>
