@@ -11,7 +11,7 @@ Acquired sensor data in both working and malfunctioning settings leveraging LabV
 Shape of Normal Data Array: (10, 51200, 2) <br/>
 Shape of Faulty Data Array: (10, 51200, 2)<br/>
 
-<img src="https://github.com/user-attachments/assets/962592cb-a4b4-45db-a5a8-9eb18fec4c8e" width="400" height="400">
+<img src="https://github.com/user-attachments/assets/962592cb-a4b4-45db-a5a8-9eb18fec4c8e" width="500" height="500">
 
 
 ## Results
@@ -32,7 +32,7 @@ Recall score in %: 100.00 <br/>
 Precision score in %: 50.00
 
 ## Feature Selection using SVC
-<img src="https://github.com/user-attachments/assets/658ec375-8bdf-4078-82c6-600e6b40799e" width="400" height="500">
+<img src="https://github.com/user-attachments/assets/658ec375-8bdf-4078-82c6-600e6b40799e" width="400" height="400">
 
 ## Top 5 Features 
 ### Sum Freq, Var Freq, Max Freq, Kurtosis Freq, Peak Freq
